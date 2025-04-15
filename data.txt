@@ -1,0 +1,17 @@
+dfsda sf
+sdf rfsd sfdf
+Sdfjk ksdfn
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+This is a test file with multiple lines. It is meant to help you test reading long text using Java.
+You can keep adding more lines to simulate a longer file.
+Here’s another paragraph to test multi-line reading:
+
+The quick brown fox jumps over the lazy dog. This sentence contains every letter of the alphabet.
+Let’s see how your program handles this large block of text and whether it prints everything correctly.
+End of file.
